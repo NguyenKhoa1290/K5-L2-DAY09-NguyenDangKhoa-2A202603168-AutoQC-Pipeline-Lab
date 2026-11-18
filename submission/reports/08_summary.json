@@ -1,0 +1,18 @@
+{
+  "verdict": {
+    "decision": "Hold",
+    "n_errors": 0,
+    "n_warn_images": 38,
+    "n_images": 205,
+    "warn_ratio": 0.1854,
+    "reasons": [
+      "38/205 ảnh chưa duyệt có cảnh báo (18.54%), đạt hoặc vượt ngưỡng 10.00%."
+    ]
+  },
+  "reviewed": 80,
+  "budget": 80,
+  "seconds": 6.8,
+  "exported": "D:\\VinCon\\Day9\\LAB\\K5-L2-DAY09-NguyenDangKhoa-2A202603168-AutoQC-Pipeline-Lab\\submission\\export\\clean_v1",
+  "config_sha1": "133b4fff1fae2d629a6c44e0ba0c794f063ce49b",
+  "review_sim_sha1": "7988ca22827f780a7043a2300490e679a1697154"
+}

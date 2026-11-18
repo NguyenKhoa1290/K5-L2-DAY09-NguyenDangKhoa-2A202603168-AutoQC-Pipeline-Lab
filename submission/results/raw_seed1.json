@@ -1,0 +1,23 @@
+{
+  "variant": "raw",
+  "seed": 1,
+  "epochs": 20,
+  "model": "work/train_setup/yolo26n.pt",
+  "device": "0",
+  "map50": 0.6998,
+  "map50_95": 0.4789,
+  "precision": 0.7747,
+  "recall": 0.5894,
+  "ap50_per_class": {
+    "car": 0.7365,
+    "person": 0.8272,
+    "truck": 0.5644,
+    "bus": 0.6709
+  },
+  "manifest_sha1": null,
+  "config_sha1": "133b4fff1fae2d629a6c44e0ba0c794f063ce49b",
+  "batch": 8,
+  "imgsz": 640,
+  "train_images": 224,
+  "seconds": 110.8
+}
